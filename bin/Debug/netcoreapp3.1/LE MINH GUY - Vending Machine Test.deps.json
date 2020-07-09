@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LE MINH GUY - Vending Machine Test/1.0.0": {
+        "runtime": {
+          "LE MINH GUY - Vending Machine Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LE MINH GUY - Vending Machine Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
